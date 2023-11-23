@@ -5,7 +5,7 @@
 .signin{
     margin-left: 11%;
     background-color: white;
-    position:absolute; 
+    position:relative; 
     margin-top: 3%;
     width: 60%;
     padding:5%;
@@ -111,7 +111,7 @@ border: none;
     font-family:sans-serif;
 }
 .bg{
- position: relative;
+ position: absolute;
 bottom: 5%;
 left: 56%;
 }
